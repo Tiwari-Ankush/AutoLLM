@@ -52,26 +52,6 @@ pip install autollm[readers]
 
 ______________________________________________________________________
 
-## 🎯 quickstart
-
-### tutorials
-
-- **video tutorials**:
-
-  - [Make RAG with API Just in a few Seconds!!!](https://www.youtube.com/watch?v=sgKpBMGC6M0&list=LL&index=2)
-  - [Autollm automagically create llm apps in seconds](https://www.youtube.com/watch?v=HZik9309wQc&list=LL&index=3)
-  - [AutoLLM: Create RAG Based LLM Web Apps in SECONDS!](https://www.youtube.com/watch?v=kPaiZe_qD34)
-  - [AutoLLM: Ship RAG based LLM Apps and API in Seconds](https://www.youtube.com/watch?v=iTGbwD-sSxM)
-  - [🚀 AutoLLM: Unlock the Power of 100+ Language Models! Step-by-Step Tutorial](https://www.youtube.com/watch?v=Dh9pIWO1VJw)
-
-- **blog posts**:
-
-  - [Introduction to AutoLLM](https://abrahimzaman360.medium.com/introduction-to-autollm-c8cd31be2a5f)
-
-- **colab notebooks**:
-
-  - quickstart: [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/safevideo/autollm/blob/main/examples/quickstart.ipynb)
-
 ### create a query engine in seconds
 
 ```python
@@ -370,50 +350,3 @@ ______________________________________________________________________
 ## 📜 license
 
 autollm is available under the [GNU Affero General Public License (AGPL 3.0)](LICENSE).
-
-______________________________________________________________________
-
-## 📞 contact
-
-for more information, support, or questions, please contact:
-
-- **Email**: [support@safevideo.ai](mailto:support@safevideo.ai)
-- **Website**: [SafeVideo](https://safevideo.ai/)
-- **LinkedIn**: [SafeVideo AI](https://www.linkedin.com/company/safevideo/)
-
-______________________________________________________________________
-
-## 🏆 contributing
-
-**love autollm? star the repo or contribute and help us make it even better!** see our [contributing guidelines](CONTRIBUTING.md) for more information.
-
-<p align="center">
-    <a href="https://github.com/safevideo/autollm/graphs/contributors">
-      <img src="https://contrib.rocks/image?repo=safevideo/autollm" />
-    </a>
-</p>
-
-______________________________________________________________________
-
-<div align="center">
-  <b>follow us for more!</b>
-  <br>
-  <a href="https://www.linkedin.com/company/safevideo/">
-      <img
-        src="https://user-images.githubusercontent.com/44926076/278822352-30e06f9b-1915-4aed-8081-6796432daa7a.png"
-        height="32px"
-      />
-  </a>
-  <a href="https://huggingface.co/safevideo">
-      <img
-        src="https://user-images.githubusercontent.com/34196005/278877706-ed074c9c-0938-48a1-98e8-39a322faf01d.png"
-        height="32px"
-      />
-  </a>
-  <a href="https://twitter.com/safevideo_ai">
-      <img
-        src="https://user-images.githubusercontent.com/34196005/278877049-141925a9-aa1b-4730-829e-74f6d08ee8ca.png"
-        height="32px"
-      />
-  </a>
-</div>
